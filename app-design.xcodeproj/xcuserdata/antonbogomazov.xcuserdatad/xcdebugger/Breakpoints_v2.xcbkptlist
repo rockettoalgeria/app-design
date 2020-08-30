@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4F727042-D014-4D50-A8C1-CFC5EBB2A412"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09AD83F9-9EBA-4D0D-AC29-381DC0CF329F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "app-design/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "09AD83F9-9EBA-4D0D-AC29-381DC0CF329F - b9c106a840e7ff07"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "app_design.ViewController.swooshLogo.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "app-design"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbogomazov/Desktop/swift-app-design/app-design/app-design/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "09AD83F9-9EBA-4D0D-AC29-381DC0CF329F - 64db98cc81a62b13"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "app_design.ViewController.swooshLogo.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "app-design"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbogomazov/Desktop/swift-app-design/app-design/app-design/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "09AD83F9-9EBA-4D0D-AC29-381DC0CF329F - 770e0a8d54ba3004"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "app_design.ViewController.swooshLogo.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "app-design"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbogomazov/Desktop/swift-app-design/app-design/app-design/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "09AD83F9-9EBA-4D0D-AC29-381DC0CF329F - 1b0534bd0e973e3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "app_design.ViewController.swooshLogo.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "app-design"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbogomazov/Desktop/swift-app-design/app-design/app-design/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "09AD83F9-9EBA-4D0D-AC29-381DC0CF329F - ed5f13db178227f1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "app_design.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; app_design.ViewController"
+                  moduleName = "app-design"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbogomazov/Desktop/swift-app-design/app-design/app-design/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "09AD83F9-9EBA-4D0D-AC29-381DC0CF329F - 24337d1f1fc0ab42"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "app_design.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;app_design.ViewController&gt;"
+                  moduleName = "app-design"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbogomazov/Desktop/swift-app-design/app-design/app-design/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
